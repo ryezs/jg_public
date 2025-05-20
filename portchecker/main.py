@@ -119,7 +119,7 @@ def run():
                     write_log(cfg, "Failed getting port from azire")
                     time.sleep(300)
             except:
-                write_log(cfg, "Failed communicating wiht azire")
+                write_log(cfg, "Failed communicating with azire")
                 time.sleep(300)
                 continue
 
