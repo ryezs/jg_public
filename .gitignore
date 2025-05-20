@@ -162,3 +162,6 @@ sebastian/.idea/sebastian.iml
 sebastian/qBittorrent.conf
 /sebastian/.idea
 sebastian/main_2.py
+/portchecker/.idea
+portchecker/main_2.py
+portchecker/qBittorrent.conf
